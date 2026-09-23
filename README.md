@@ -311,10 +311,10 @@ pip install -r requirements.txt
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Ajay Kumar Reddy Y**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@ajayreddy8691](https://github.com/ajayreddy8691)
+- LinkedIn: [in/ajayreddy8691](https://linkedin.com/in/ajayreddy8691)
 
 ---
 
